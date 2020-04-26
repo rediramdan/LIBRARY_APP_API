@@ -1,4 +1,4 @@
-# LIBRARY_APP_API
+## LIBRARY_APP_API
 Created using expressJS with the mysql database, this is an API project for the LIBRARY APP application
 
 ## How to use
