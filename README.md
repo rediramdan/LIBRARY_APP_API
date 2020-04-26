@@ -21,7 +21,7 @@ Unpacking objects: 100% (1472/1472), done.
 ```
 
 
-When it's finished, run the application by running  the `yarn start` or `npm start` command.\
+When it's finished, run the application by running  the `yarn start` or `npm start` command.
 
 You can open the application at `https://localhost:3000`.
 
